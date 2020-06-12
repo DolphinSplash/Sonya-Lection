@@ -10,6 +10,8 @@ namespace Sonya_Lection
 			Console.ReadLine();
 			char[] k = new[] {'H', 'e', 'l', 'l', 'o'};
 			Loca(k);
+
+
 			Console.WriteLine("Press any key to end");
 			Console.ReadLine();
 		}
